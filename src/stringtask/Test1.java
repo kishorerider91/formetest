@@ -17,6 +17,7 @@ public class Test1 {
 	System.out.println(Str4.length());
 	//System.out.print("string length");
 	//System.out.println(Str5.length());
+	System.out.println("hi due");
 
 	}
 }
